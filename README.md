@@ -1,4 +1,4 @@
-# SA380
+# STA380
 This repository is to deliver the homework answers to STA 380 INTRO TO MACHINE LEARNING by UT Austin
 Contributors to this work: Bin (Melody) Yang (by4325), Jui-Jia (Jessica) Lin (jl82983), Zeyu Li (zl9735)
 
